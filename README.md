@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Shivamrut
 - 👀 I’m a computer science student
-- 🌱 I know decent amount of C, C++, Python, (HTML,CSS,Javascript), MySQL
+- 🌱 I know decent amount of C, C++, Python, (HTML,CSS,Javascript), MySQL, Kotlin
 - 💞️ I’m a enthusiast coder, looking forward to work on some amazing projects
 - 📫 How to reach me : 
-  * email - incineroaraditya@gamil.com 
-  * linkedin - [connect](https://www.linkedin.com/in/shivamrut-g-21826124a/)
+  * Email - incineroaraditya@gamil.com 
+  * [LinkedIn](https://www.linkedin.com/in/shivamrut-g-21826124a/)
 
 <!---
 Shivamrut/Shivamrut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
