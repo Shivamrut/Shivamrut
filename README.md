@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Shivamrut<br>I'm a passionate software developer<br>Always on hunt to do exciting stuff
+<h1 align="center">Hello there 👋, I'm Shivamrut</h1>
+<h3 align="center">I'm a passionate software developer</h3>
 
 ***
 [![](https://visitcount.itsvg.in/api?id=shivamrut&icon=5&color=11)](https://visitcount.itsvg.in)
