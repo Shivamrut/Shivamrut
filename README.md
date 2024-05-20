@@ -1,5 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Shivamrut</h1>
-<h3 align="center">I'm a passionate software developer</h3>
+![Business Card](1.png)
 
 ***
 [![](https://visitcount.itsvg.in/api?id=shivamrut&icon=5&color=11)](https://visitcount.itsvg.in)
