@@ -1,4 +1,7 @@
-![Business Card](1.png)
+***
+<p align="center">
+<img src="1.png" alt="Business Card" width="600" height="350" style="display: block; margin: 0 auto;">
+</p>
 
 ***
 [![](https://visitcount.itsvg.in/api?id=shivamrut&icon=5&color=11)](https://visitcount.itsvg.in)
