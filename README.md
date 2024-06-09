@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="1.png" alt="Business Card" width="600" height="350" style="display: block; margin: 0 auto;">
+    <img src="Watercolor Twitter Header.png" alt="Business Card" width="900" height="300" style="display: block; margin: 0 auto;">
 </div>
 
 ***
