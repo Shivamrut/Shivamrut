@@ -16,7 +16,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamrut&show_icons=true&locale=en&layout=compact" alt="shivamrut" />
 </p>
 <hr>
-<h3 align="center">✍️ Dev Quote</h3>
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Dev Quote" />
-</p>
+
