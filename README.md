@@ -1,90 +1,147 @@
 # Hi, I'm Shivamrut G 👋
 
-Backend Engineer | Open Source Contributor | Competitive Programmer
+**Software Engineer @ New Relic | Google Summer of Code 2026 | Backend & Distributed Systems**
 
-I'm a Computer Science student at UVCE, Bengaluru, interested in building scalable backend systems, distributed applications, and developer tooling.
+I'm a Computer Science graduate from **UVCE, Bengaluru**, passionate about building scalable backend systems, distributed infrastructure, and cloud-native applications.
 
-Currently contributing to Eclipse SW360 as part of **Google Summer of Code 2026**, where I'm leading the migration of Apache Thrift services to modern Spring Boot REST APIs.
-
----
-
-## Current Focus
-
-* Migrating Apache Thrift services to Spring Boot REST in SW360 (GSoC 2026)
-* Backend architecture and distributed systems
-* Java, Spring Boot, PostgreSQL, and Cloud technologies
-* Open Source Software development
-* System Design and DevOps
+I enjoy working on problems involving distributed systems, Kubernetes, observability, event-driven architectures, and high-performance backend services.
 
 ---
 
-## Open Source
+## 🚀 Experience
 
-### Eclipse SW360 (GSoC 2026)
+### Google Summer of Code 2026 — Eclipse SW360
 
-Migrating legacy Apache Thrift communication to modern REST-based microservices.
+Leading the migration of **20+ Spring Boot services** from Apache Thrift to REST/gRPC.
 
-Key contributions:
+Highlights:
 
-* Search Service migration
-* Configuration Service migration
-* Shared service contract layer design
-* Thrift-to-REST transition architecture
+* Delivered **20K+ lines** of reviewed production code
+* Successfully migrated **18 of 22 services**
+* Designed incremental migration architecture preserving backward compatibility
+* Identified and responsibly disclosed a security vulnerability
+* Contributed fixes across exception handling, concurrency, dependency injection, and API documentation
+
+### Software Development Intern — Ruckus Networks (CommScope)
+
+Worked on cloud infrastructure, Kubernetes platform engineering, and observability.
+
+Highlights:
+
+* Built a **Spot VM migration POC** projecting **~58% GCP compute cost savings**
+* Developed Grafana dashboards used across **4 global regions**
+* Increased unit test coverage of a **30K LOC** Spring Boot service from **50% → 80%**
+* Implemented custom health indicators, OpenTelemetry metrics, and production monitoring
+* Led a zero-downtime **KEDA** upgrade
+* Solved production networking, WebSocket security, and Kubernetes infrastructure issues
+
+### Application Development Intern — LifeSigns
+
+Built healthcare applications using **Go, React, PostgreSQL, Python, Docker, and WebSockets**.
+
+Projects included:
+
+* Hospital nurse monitoring platform
+* Secure ambulance live-streaming system
+* IoT CCTV stream management platform
 
 ---
 
-## Competitive Programming
+## 🌱 Open Source
 
-* CodeChef: 3★ (1655)
-* 700+ problems solved on Codeforces
-* Strong interest in algorithms and data structures
+* **Google Summer of Code 2026 — Eclipse SW360**
+* **KEDA (Kubernetes Event-Driven Autoscaling)**
+* 30+ merged pull requests across open-source projects
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
-Java • JavaScript • C++ • SQL • Bash
+Java • Go • Python • C++ • SQL
 
 ### Backend
 
-Spring Boot • Node.js • Express • REST APIs
+Spring Boot • REST • gRPC • Kafka • WebSockets
 
-### Databases
+### Databases & Storage
 
-PostgreSQL • Redis • Elasticsearch
+PostgreSQL • Redis • Elasticsearch • MySQL
 
-### DevOps & Cloud
+### Cloud & DevOps
 
-Docker • Kubernetes • Jenkins • Grafana • Linux • GCP
+Kubernetes • Docker • Helm • GCP • Istio • KEDA • Minikube
+
+### Observability
+
+Grafana • Prometheus • OpenTelemetry • Kibana
 
 ### Tools
 
-Git • Postman • Kafka • Kibana
+Git • GitHub • Jira • Confluence • Linux
 
 ---
 
-## Projects
+## 📌 Featured Projects
 
-### Nandgate Labs
+### Event-Driven Audit Logging Platform
 
-Personal platform where I build and document software projects.
+A Kafka-based audit logging platform where CRUD operations publish events to multiple consumer groups for Elasticsearch indexing and structured logging.
 
-* Website: https://www.nandgatelabs.com
-* Blog: https://blogs.nandgatelabs.com
-* Portfolio: https://shivamrut.nandgatelabs.com
+**Tech:** Spring Boot • Kafka • PostgreSQL • Elasticsearch • Redis • Kubernetes
 
 ---
 
-## Connect With Me
+### Distributed Rate Limiter
 
-* GitHub: https://github.com/Shivamrut
-* LinkedIn: https://linkedin.com/in/shivamrut-g-21826124a
-* Codeforces: https://codeforces.com/profile/maxus_red
-* LeetCode: https://leetcode.com/maxus_red
-* Medium: https://medium.com/maxus_red
+Production-style API rate limiting platform supporting API keys, per-client quotas, Redis-backed counters, and concurrent-safe request enforcement.
+
+**Tech:** Spring Boot • Redis • Docker
 
 ---
 
-> Learning by building. Contributing by shipping.
+## 📝 Writing
+
+I regularly write about:
+
+* Distributed Systems
+* Backend Engineering
+* System Design
+* Open Source
+* Java & Spring Boot
+* Cloud Infrastructure
+
+**Nandgate Labs**
+
+* 🌐 https://www.nandgatelabs.com
+* 📝 https://blogs.nandgatelabs.com
+* 👨‍💻 https://shivamrut.nandgatelabs.com
+
+---
+
+## 🏆 Achievements
+
+* Google Summer of Code 2026
+* LeetCode Rating: **1770**
+* CodeChef Rating: **1655 (3★)**
+* Codeforces Rating: **1202**
+* KCET Rank **1342**
+* KVPY SX AIR **1702**
+* JEE Mains **96.67 percentile**
+* Lead Organizer — G-Build: Server Edition
+* Technical Core Member — Google Developers Group, UVCE
+
+---
+
+## 📫 Connect
+
+* GitHub — https://github.com/Shivamrut
+* LinkedIn — https://linkedin.com/in/shivamrut-g-21826124a
+* LeetCode — https://leetcode.com/maxus_red
+* Codeforces — https://codeforces.com/profile/maxus_red
+* Medium — https://medium.com/maxus_red
+
+---
+
+> Building scalable systems, contributing to open source, and continuously learning distributed systems engineering.
